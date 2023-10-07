@@ -1,18 +1,13 @@
-# Daily Tasks Report - 1402/7/12
+# Daily Tasks Report - 1402/7/13
 
 # Task Details
 
-1. Task 1: Show Category Page
+1. Task 1: Create header, footer, and index files
    - Start time: 9:36
    - End time: 12:05
    - Duration: 02:29:53
 
-2. Task 2: footer.php Files
-   - Start time: 01:55
-   - End time: 03:05
-   - Duration: 01:00:00
-
-3. Task 3: sidebar.php Files
+2. Task 3: Implement loops on the home page
    - Start time: 05:22
    - End time: 07:05
    - Duration: 01:27:00 
