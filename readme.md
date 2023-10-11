@@ -1,16 +1,20 @@
-# Daily Tasks Report - 1402/7/16
+# Daily Tasks Report - 1402/7/19
 
 # Task Details
 
-1. Task 1: Single Page Implementation
-   - Start time: 9:00
-   - End time: 1:40
-   - Duration: 04:40:53
+1. Task 1: Check __construct function
+   - Start time: 12:20
+   - End time: 2:40
 
-2. Task 2: Check register_nav_menu function
-   - Start time: 05:22
-   - End time: 07:0
-   - Duration: 01:27:00 
+
+2. Task 2: Check the form function
+   - Start time: 03:08
+   - End time: 04:40
+
+
+3. Task 3: Register Sidebar
+   - Start time: 05:02
+   - End time: 06:30
 
 # Challenges and Roadblocks
 
@@ -18,7 +22,7 @@ no challenges
 
 # Next Steps
 
-task1:  Create custom classes for menu
-task2: Check wp_nav_menu function
+task1: Display user information widget
+task2: Pagination on the content page
 
 
