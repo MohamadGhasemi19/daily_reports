@@ -2,12 +2,12 @@
 
 # Task Details
 
-1. Task 1: Implementation of page
-   - Start time: 9:26
-   - End time: 2:40
-   - Duration: 05:14:53
+1. Task 1: Single Page Implementation
+   - Start time: 9:00
+   - End time: 1:40
+   - Duration: 04:40:53
 
-2. Task 2: Add style codes
+2. Task 2: Check register_nav_menu function
    - Start time: 05:22
    - End time: 07:0
    - Duration: 01:27:00 
@@ -18,7 +18,7 @@ no challenges
 
 # Next Steps
 
-task1:  Create header, footer, and index files
-task2: Implement loops on the home page
+task1:  Create custom classes for menu
+task2: Check wp_nav_menu function
 
 
