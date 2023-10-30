@@ -1,15 +1,16 @@
-# Daily Tasks Report - 1402/8/2
+# Daily Tasks Report - 1402/8/3
 
 # Task Details
    
-1. Task 1: page.php
-   - Start time: 9:30
+1. Task 1: main.css
+   - Start time: 12:30
    - End time: 11:20
 
 
-2. Task 2: tag.php 
+2. Task 2: category.php 
    - Start time: 012:22
    - End time: 03:10
+
 
 # Challenges and Roadblocks
 
@@ -17,8 +18,8 @@ no challenges
 
 # Next Steps
 
-task1: main.css
-task2: category.php 
+task1: 
+task2: 
 
 # Deadlines
 
