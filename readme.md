@@ -1,4 +1,4 @@
-# Daily Tasks Report - 1402/8/3
+# Daily Tasks Report - 1402/8/6
 
 # Task Details
    
@@ -20,8 +20,3 @@ no challenges
 
 task1: 
 task2: 
-
-# Deadlines
-
-start : 1402/7/29
-end : 1402/8/8
